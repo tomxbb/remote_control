@@ -13,7 +13,7 @@
 // 唯一的应用程序对象
 
 CWinApp theApp;
-
+//git提交测试
 using namespace std;
 
 int main()
